@@ -1,4 +1,4 @@
-<?php
+s<?php
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
@@ -53,13 +53,13 @@ $page->afficherHeader();
     <h2 style="color: #1b5e20;">🛠️ Tableau de bord Administrateur</h2>
 
     <div style="display: flex; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
-        <a href="admin_users.php" style="background: #2e7d32; color: white; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold;">👥 Utilisateurs</a>
+        <a href="admin_users.php" style="background: #2e7d32; color: white; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold;">👥 Gestion des utilisateurs</a>
         <a href="admin_stats.php" style="background: #1976d2; color: white; padding: 12px 20px; border-radius: 8px; text-decoration: none; font-weight: bold;">📊 Statistiques</a>
     </div>
 
     <div style="display: flex; gap: 20px; margin-bottom: 30px;">
         <div style="flex: 1; background: #e8f5e9; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #c8e6c9;">
-            <strong style="font-size: 1.5em;"><?php echo $total_users; ?></strong><br>Utilisateurs
+            <strong style="font-size: 1.5em;"><?php echo $total_users; ?></strong><br>Total Utilisateurs
         </div>
         <div style="flex: 1; background: #e3f2fd; padding: 20px; border-radius: 10px; text-align: center; border: 1px solid #bbdefb;">
             <strong style="font-size: 1.5em;"><?php echo $total_trajets; ?></strong><br>Trajets
@@ -120,5 +120,6 @@ $page->afficherHeader();
         </table>
     </div>
 </main>
+
 
 <?php $page->afficherFooter(); ?>
