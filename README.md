@@ -1,4 +1,5 @@
-🌿 EcoRide - Plateforme de Covoiturage Éco-responsable 📖 À propos du projet EcoRide est né d'une idée simple : rendre le covoiturage plus transparent et plus vert. Contrairement aux plateformes classiques, EcoRide met en avant les véhicules électriques et intègre un système de crédits pour encourager le partage communautaire.
+🌿 EcoRide - Plateforme de Covoiturage Éco-responsable 
+📖 À propos du projet EcoRide est né d'une idée simple : rendre le covoiturage plus transparent et plus vert. Contrairement aux plateformes classiques, EcoRide met en avant les véhicules électriques et intègre un système de crédits pour encourager le partage communautaire.
 
 🚀 Fonctionnalités clés Recherche dynamique : Filtres par ville (avec autocomplétion via l'API Adresse), date, prix et type d'énergie.
 
