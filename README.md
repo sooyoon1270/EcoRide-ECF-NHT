@@ -22,7 +22,7 @@ API externe : API Adresse (data.gouv.fr) pour une saisie simplifiée des villes.
 
 ⚙️ Installation (Pour tester le projet) Cloner le dépôt :
 
-Bash git clone https://github.com/sooyoon1270/EcoRide-ECF-NHT.git Base de données : * Importer le fichier ecoride_v1.sql (inclus à la racine) dans votre phpMyAdmin.
+Bash git clone https://github.com/sooyoon1270/EcoRide-ECF-NHT.git Base de données : * Importer le fichier ecoride.sql (inclus à la racine) dans votre phpMyAdmin.
 
 Configurer vos accès dans Database.php.
 
