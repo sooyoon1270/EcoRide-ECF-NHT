@@ -30,7 +30,7 @@ Lancer le serveur : * Utilisez XAMPP, WAMP ou le serveur interne de PHP : php -S
 
 👤 Identifiants de test voici deux comptes pré-configurés :
 
-Compte Admin : admin@ecoride.fr / Admin123! (Accès au dashboard).
+Compte Admin : admin@ecoride.fr / 123456 (Accès au dashboard).
 
 Compte Utilisateur : user@test.fr / User123! (Pour tester la réservation).
 
